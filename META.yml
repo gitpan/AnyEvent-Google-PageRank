@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               AnyEvent-Google-PageRank
-version:            0.01
+version:            0.02
 abstract:           Non-blocking wrapper for WWW::Google::PageRank
 author:
     - Oleg G <oleg@cpan.org>
